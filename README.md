@@ -19,4 +19,4 @@ This repository contains:
 
 ### Clone the repository:
 ```bash
-git clone [https://github.com/your-username/ai-powered-pneumonia-detection.git](https://github.com/g4m3m4g/AI-Pneumonia-Detector)
+git clone https://github.com/g4m3m4g/AI-Pneumonia-Detector
